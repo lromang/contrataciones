@@ -32,7 +32,73 @@
       "value": {
         "amount": "112046320.57",
         "currency": "MNX"
-      }
+      },
+      "suppliers": [
+        {
+          "identifier": {
+            "scheme": "NA",
+            "id": "1. Acciones Grupo Oro, S.A. de C.V.  AGO090512QT4 2.Constructora Grupo de Oro, S.A. de C.V. CGO060731P72",
+            "legalName": "1. Acciones Grupo Oro, S.A. de C.V.  2.Constructora Grupo de Oro, S.A. de C.V.",
+            "uri": "http://www.grupodeoro.com.mx/consulta_empresa.php?empresas=12"
+          },
+          "additionalIdentifiers": [
+            {
+              "scheme": "NA",
+              "id": "NA"
+            }
+          ],
+          "name": "1. Acciones Grupo Oro, S.A. de C.V.  2.Constructora Grupo de Oro, S.A. de C.V.",
+          "address": {
+            "streetAddress": "Prolongación 18 de marzo 300",
+            "locality": "Morelia",
+            "region": "Michoacán",
+            "postalCode": "58080",
+            "countryName": "México"
+          },
+          "contactPoint": {
+            "name": "Ricardo Ramos Acosta",
+            "email": "NA",
+            "telephone": "NA",
+            "faxNumber": "NA"
+          }
+        }
+      ],
+      "items": [
+        {
+          "id": "62501001",
+          "description": "Construcción aeropista",
+          "classification": {
+            "scheme": "NA",
+            "id": "NA",
+            "description": "Obra pública",
+            "uri": "NA"
+          },
+          "quantity": "1",
+          "unit": {
+            "name": "Obra",
+            "value": {
+              "amount": "NA",
+              "currency": "NA"
+            }
+          }
+        }
+      ],
+      "contractPeriod": {
+        "startDate": "09/10/2015",
+        "endDate": "04/06/2016"
+      },
+      "documents": [
+        {
+          "id": "LO-009KDH999- N47-2015",
+          "documentType": "NA",
+          "title": "Acta de emisión de fallo ",
+          "description": "Con fundamento en lo dispuesto en el artículo 39, fracción III de la LOPSRM, se adjudica el contrato al consorcio integrado por Acciones Grupo Oro, S.A. de C.V. y Constructora Grupo de Oro, S.A. de C.V. , por un importe de $112,046,320.57, monto sin considerar el IVA, por resultar se la propuesta que al ser evaluada técnica y ecómicamente, obtuvo el puntaje más alto acorde al mecanismo de evaluación previsto en la convocatoria. ",
+          "url": "NA",
+          "datePublished": "NA",
+          "format": "NA",
+          "language": "es"
+        }
+      ]
     }
   ],
   "contracts": {
