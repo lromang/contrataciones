@@ -101,7 +101,46 @@
       ]
     }
   ],
-  "contracts": {
-    "contracts": null
-  }
+  "contracts": [
+    {
+      "id": "LPN-OP-DCAGI-SC-066/15",
+      "awardId": "LO-009KDH999- N47-2015",
+      "title": "Desarrollo del Proyecto Ejecutivo, construcción, equipamiento de mobiliario en instalaciones complementarias para el campamento del Grupo Aeroportuario de la Ciudad de México en el sitio del Nuevo Aeropuerto Internacional de la Ciudad de México.",
+      "description": "NA",
+      "status": "Activo",
+      "period": {
+        "startDate": "09/10/2015",
+        "endDate": "04/06/2016"
+      },
+      "value": {
+        "amount": "112046320.57",
+        "currency": "MXN"
+      },
+      "items": [
+        {
+          "id": "NA",
+          "description": "NA",
+          "classification": {
+            "scheme": "NA",
+            "id": "NA",
+            "description": "NA",
+            "uri": "NA"
+          }
+        }
+      ],
+      "dateSigned": "09/10/2015",
+      "documents": [
+        {
+          "id": "1188539",
+          "documentType": "contractSigned",
+          "title": "Contrato plurianual de obra pública a precio alzado  número LPN-OP-DCAGI-SC-066/15",
+          "description": "NA",
+          "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Contrato.pdf",
+          "datePublished": "10/22/2015",
+          "format": "NA",
+          "language": "esp"
+        }
+      ]
+    }
+  ]
 }
