@@ -1,5 +1,5 @@
 {
-  "language": "esp",
+  "language": "es",
   "ocid": "LO-009KDH999-N47-2015",
   "id": "LO-009KDH999-N47-2015",
   "date": "2015-06-23",
@@ -73,12 +73,20 @@
             "description": "Obra pública",
             "uri": "NA"
           },
+          "additionalClassifications": [
+            {
+              "scheme": "NA",
+              "id": "NA",
+              "description": "NA",
+              "uri": "NA"
+            }
+          ],
           "quantity": "1",
           "unit": {
             "name": "Obra",
             "value": {
               "amount": "NA",
-              "currency": "NA"
+              "currency": "MXN"
             }
           }
         }
@@ -128,6 +136,22 @@
           }
         }
       ],
+      "additionalClassifications": [
+        {
+          "scheme": "NA",
+          "id": "NA",
+          "description": "NA",
+          "uri": "NA"
+        }
+      ],
+      "quantity": "NA",
+      "unit": {
+        "name": "Obra",
+        "value": {
+          "amount": "NA",
+          "currency": "MXN"
+        }
+      },
       "dateSigned": "09/10/2015",
       "documents": [
         {
@@ -138,7 +162,7 @@
           "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Contrato.pdf",
           "datePublished": "10/22/2015",
           "format": "NA",
-          "language": "esp"
+          "language": "es"
         }
       ]
     }

@@ -1,0 +1,182 @@
+{
+  "uri": "NA",
+  "publishedDate": "2015-06-23",
+  "publisher": {
+    "scheme": "GACM",
+    "uid": "NA",
+    "name": "Grupo Aeroportuario de la Ciudad de México",
+    "uri": "http://www.aeropuerto.gob.mx/gacm/index.php"
+  },
+  "releases": [
+    {
+      "language": "es",
+      "ocid": "LO-009KDH999-N47-2015",
+      "id": "LO-009KDH999-N47-2015",
+      "date": "2015-06-23",
+      "tag": "Contrato",
+      "initiationType": "tender",
+      "buyer": {
+        "identifier": {
+          "scheme": "GACM",
+          "id": "NA",
+          "legalName": "Grupo Aeroportuario de la Ciudad de México",
+          "uri": "http://www.aeropuerto.gob.mx/gacm/index.php"
+        },
+        "name": "Grupo Aeroportuario de la Ciudad de México",
+        "address": {
+          "locality": "Ciudad de México",
+          "region": "Ciudad de México",
+          "countryName": "México"
+        },
+        "contactPoint": {
+          "name": null
+        }
+      },
+      "awards": [
+        {
+          "id": "LO-009KDH999- N47-2015",
+          "title": "Acta de emisión de fallo ",
+          "description": "Con fundamento en lo dispuesto en el artículo 39, fracción III de la LOPSRM, se adjudica el contrato al consorcio integrado por Acciones Grupo Oro, S.A. de C.V. y Constructora Grupo de Oro, S.A. de C.V. , por un importe de $112,046,320.57, monto sin considerar el IVA, por resultar se la propuesta que al ser evaluada técnica y ecómicamente, obtuvo el puntaje más alto acorde al mecanismo de evaluación previsto en la convocatoria. ",
+          "status": "Adjudicado ",
+          "date": "08/28/2015",
+          "value": {
+            "amount": "112046320.57",
+            "currency": "MNX"
+          },
+          "suppliers": [
+            {
+              "identifier": {
+                "scheme": "NA",
+                "id": "1. Acciones Grupo Oro, S.A. de C.V.  AGO090512QT4 2.Constructora Grupo de Oro, S.A. de C.V. CGO060731P72",
+                "legalName": "1. Acciones Grupo Oro, S.A. de C.V.  2.Constructora Grupo de Oro, S.A. de C.V.",
+                "uri": "http://www.grupodeoro.com.mx/consulta_empresa.php?empresas=12"
+              },
+              "additionalIdentifiers": [
+                {
+                  "scheme": "NA",
+                  "id": "NA"
+                }
+              ],
+              "name": "1. Acciones Grupo Oro, S.A. de C.V.  2.Constructora Grupo de Oro, S.A. de C.V.",
+              "address": {
+                "streetAddress": "Prolongación 18 de marzo 300",
+                "locality": "Morelia",
+                "region": "Michoacán",
+                "postalCode": "58080",
+                "countryName": "México"
+              },
+              "contactPoint": {
+                "name": "Ricardo Ramos Acosta",
+                "email": "NA",
+                "telephone": "NA",
+                "faxNumber": "NA"
+              }
+            }
+          ],
+          "items": [
+            {
+              "id": "62501001",
+              "description": "Construcción aeropista",
+              "classification": {
+                "scheme": "NA",
+                "id": "NA",
+                "description": "Obra pública",
+                "uri": "NA"
+              },
+              "additionalClassifications": [
+                {
+                  "scheme": "NA",
+                  "id": "NA",
+                  "description": "NA",
+                  "uri": "NA"
+                }
+              ],
+              "quantity": "1",
+              "unit": {
+                "name": "Obra",
+                "value": {
+                  "amount": "NA",
+                  "currency": "MXN"
+                }
+              }
+            }
+          ],
+          "contractPeriod": {
+            "startDate": "09/10/2015",
+            "endDate": "04/06/2016"
+          },
+          "documents": [
+            {
+              "id": "LO-009KDH999- N47-2015",
+              "documentType": "NA",
+              "title": "Acta de emisión de fallo ",
+              "description": "Con fundamento en lo dispuesto en el artículo 39, fracción III de la LOPSRM, se adjudica el contrato al consorcio integrado por Acciones Grupo Oro, S.A. de C.V. y Constructora Grupo de Oro, S.A. de C.V. , por un importe de $112,046,320.57, monto sin considerar el IVA, por resultar se la propuesta que al ser evaluada técnica y ecómicamente, obtuvo el puntaje más alto acorde al mecanismo de evaluación previsto en la convocatoria. ",
+              "url": "NA",
+              "datePublished": "NA",
+              "format": "NA",
+              "language": "es"
+            }
+          ]
+        }
+      ],
+      "contracts": [
+        {
+          "id": "LPN-OP-DCAGI-SC-066/15",
+          "awardId": "LO-009KDH999- N47-2015",
+          "title": "Desarrollo del Proyecto Ejecutivo, construcción, equipamiento de mobiliario en instalaciones complementarias para el campamento del Grupo Aeroportuario de la Ciudad de México en el sitio del Nuevo Aeropuerto Internacional de la Ciudad de México.",
+          "description": "NA",
+          "status": "Activo",
+          "period": {
+            "startDate": "09/10/2015",
+            "endDate": "04/06/2016"
+          },
+          "value": {
+            "amount": "112046320.57",
+            "currency": "MXN"
+          },
+          "items": [
+            {
+              "id": "NA",
+              "description": "NA",
+              "classification": {
+                "scheme": "NA",
+                "id": "NA",
+                "description": "NA",
+                "uri": "NA"
+              }
+            }
+          ],
+          "additionalClassifications": [
+            {
+              "scheme": "NA",
+              "id": "NA",
+              "description": "NA",
+              "uri": "NA"
+            }
+          ],
+          "quantity": "NA",
+          "unit": {
+            "name": "Obra",
+            "value": {
+              "amount": "NA",
+              "currency": "MXN"
+            }
+          },
+          "dateSigned": "09/10/2015",
+          "documents": [
+            {
+              "id": "1188539",
+              "documentType": "contractSigned",
+              "title": "Contrato plurianual de obra pública a precio alzado  número LPN-OP-DCAGI-SC-066/15",
+              "description": "NA",
+              "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Contrato.pdf",
+              "datePublished": "10/22/2015",
+              "format": "NA",
+              "language": "es"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
