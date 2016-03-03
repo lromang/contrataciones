@@ -116,16 +116,49 @@
         },
         "notices": {
           "notices": "Proyecto de Convocatoria a la Licitación Pública Nacional Presencial para realizar el desarrollo del proyecto ejecutivo, construcción, equipamiento de, mobiliario e instalaciones complementarias para el campamento del Grupo Aeroportuario De La Ciudad De México (GACM) en el sitio del Nuevo Aeropuerto Internacional de la Ciudad de México (NAICM) publicado en CompraNet el 11 de mayo de 2015",
-          "hearingNotice": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015"
+          "noticesUri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Proyecto_convocatoria.pdf",
+          "hearingNotice": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
+          "hearingNoticeUri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Convocatoria.pdf"
         },
-        "biddingDocuments": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
-        "eligibilityCriteria": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
-        "technicalSpecifications": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
-        "evaluationCriteria": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
-        "clarifications": "Actas de las juntas de aclaraciones realizadas el 02, 06 y 10 de julio de 2015",
-        "shortlistedFirms": "No aplica para procedimientos realizados bajo la Ley de Obras Públicas y Servicios Relacionados con las Mismas",
-        "conflictOfInterest": "Formato de declaración de no conflicto de interés debidamente requisitado y firmado por cada uno de los servidores públicos que participan en el procedimiento de contratación",
-        "debartments": "Directorio de proveedores y contratistas sancionados de la SFP"
+        "biddingDocuments": {
+          "biddingDocuments": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
+          "uri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Convocatoria.pdf"
+        },
+        "eligibilityCriteria": {
+          "criteria": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
+          "uri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Requisitos.pdf"
+        },
+        "technicalSpecifications": {
+          "specifications": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
+          "uri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Términos_referencia.pdf"
+        },
+        "evaluationCriteria": {
+          "criteria": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
+          "uri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Criterios_evaluación.pdf"
+        },
+        "clarifications": {
+          "clarifications": "Actas de las juntas de aclaraciones realizadas el 02, 06 y 10 de julio de 2015",
+          "uri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Junta_aclaraciones.pdf"
+        },
+        "shortlistedFirms": {
+          "participants": "No aplica para procedimientos realizados bajo la Ley de Obras Públicas y Servicios Relacionados con las Mismas",
+          "uri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Criterios_Drenaje.pdf"
+        },
+        "conflictOfInterest": {
+          "conflict": "Formato de declaración de no conflicto de interés debidamente requisitado y firmado por cada uno de los servidores públicos que participan en el procedimiento de contratación",
+          "uri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_proveedores_sancionados.pdf"
+        },
+        "debartments": "Directorio de proveedores y contratistas sancionados de la SFP",
+        "items": [
+          {
+            "id": "62501001",
+            "description": "Construcción aeropista",
+            "classification": "Obra pública",
+            "otherClassifications": "No aplica",
+            "quantity": "1",
+            "unit": "1"
+          }
+        ]
       },
       "awards": [
         {
