@@ -331,7 +331,24 @@
               "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Contrato.pdf",
               "datePublished": null,
               "format": null,
-              "language": "es"
+              "language": "es",
+              "contractSchedule": "No aplica",
+              "contractAnnexe": {
+                "contractAnnexe": "\"Anexo 1: Suficiencia presupuestaria   Anexo 2: Escrituras públicas de Acciones Grupo de Oro, S.A. de C.V.   Anexo 3: Poder del representante legal de Acciones Grupo de Oro, S.A. de C.V.   Anexo 4: Cédula de Registro Federal de Contribuyentes de  Acciones Grupo de Oro, S.A. de C.V.   Anexo 5: Comprobante de  domicilio de  Acciones Grupo de Oro, S.A. de C.V.    Anexo 6: Opinión del cumplimiento de obligaciones fiscales de Acciones Grupo de Oro, S.A. de C.V.   Anexo 7: Declaración de no encontrarse en los supuestos de los artículos 51 y 78 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas de Acciones Grupo de Oro, S.A. de C.V.   Anexo 8: Manifestación de estratificación de MIPYMES de Acciones Grupo de Oro, S.A. de C.V.    Anexo 9: Constancia de no adeudo al IMSS de Acciones Grupo de Oro, S.A. de C.V.   Anexo 10: Escrituras públicas de Constructora Grupo de Oro, S.A. de C.V.   Anexo 11: Poder del representante legal de Constructora Grupo de Oro, S.A. de C.V.   Anexo 12: Cédula del registro federal de contribuyentes de  Constructora Grupo de Oro, S.A. de C.V.   Anexo 13:  Comprobante de domicilio de  Constructora Grupo de Oro, S.A. de C.V.   Anexo 14: Opinión del cumplimiento de obligaciones fiscales de Constructora Grupo de Oro, S.A. de C.V.   Anexo 15: Declaración de Constructora Grupo de Oro, S.A. de C.V. de no encontrarse en los supuestos de los artículos 51 y 78 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas   Anexo 16: Manifestación de estratificación de MIPYMES de Constructora Grupo de Oro, S.A. de C.V.   Anexo 17: Constancia de no adeudo al IMSS de Constructora Grupo de Oro, S.A. de C.V.   Anexo 18: Convenio de Participación Conjunta entre Constructora Grupo de Oro, S.A. de C.V. y Acciones Grupo de Oro, S.A. de C.V.   Anexo 19: Designación de representante común.    Anexo 20: Términos de Referencia   Anexo 21: Propuesta técnica integral   Anexo 22: Acta de fallo   Anexo 23: Propuesta económica integral   Anexo 24: Programa de amortización del ant",
+                "uri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Anexos_contrato.pdf"
+              },
+              "guarantees": [
+                {
+                  "anticipiationGuarantees": {
+                    "guarantees": "Fianza número 88263546 emitida el 2015-10-09 por CHUBB de México Compañía Afianzadora , S.A. de C.V.",
+                    "uri": "   "
+                  },
+                  "fulfilmentGuarantees": {
+                    "guarantees": "Fianza número 88263545 emitida el 2015-10-09 por CHUBB de México Compañía Afianzadora , S.A. de C.V",
+                    "uri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Garantia_cumplimiento.pdf"
+                  }
+                }
+              ]
             }
           ]
         }
