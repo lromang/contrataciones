@@ -158,6 +158,33 @@
             "quantity": "1",
             "unit": "1"
           }
+        ],
+        "milestones": [
+          {
+            "id": "No se han recibido estimaciones por parte del contratista",
+            "name": "No se han recibido estimaciones por parte del contratista",
+            "description": "No se han recibido estimaciones por parte del contratista",
+            "date": {
+              "startDate": "No se han recibido estimaciones por parte del contratista",
+              "endDate": null
+            },
+            "modificationDate": {
+              "startDate": "06/29/2015",
+              "endDate": null
+            },
+            "status": "No se han recibido estimaciones por parte del contratista"
+          }
+        ],
+        "documents": [
+          {
+            "supportDocument": "Acta de visita al sitio de realización de los trabajos publicada en CompraNet el 29 de junio de 2015",
+            "modificationDate": {
+              "startDate": "No hubo modificaciones",
+              "endDate": null
+            },
+            "modification": "No hubo modificaciones",
+            "justification": "No hubo modificaciones"
+          }
         ]
       },
       "awards": [
