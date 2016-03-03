@@ -1,0 +1,277 @@
+{
+  "uri": "null",
+  "publishedDate": "2015-06-23T00:00:00Z",
+  "publisher": {
+    "scheme": "GACM",
+    "uid": null,
+    "name": "Grupo Aeroportuario de la Ciudad de México, S.A. de C.V.",
+    "uri": "http://www.aeropuerto.gob.mx/gacm/index.php"
+  },
+  "releases": [
+    {
+      "language": "es",
+      "ocid": "LO-009KDH999-N47-2015",
+      "id": "LO-009KDH999-N47-2015",
+      "date": "2015-06-23T00:00:00Z",
+      "tag": [
+        "Contrato"
+      ],
+      "initiationType": "tender",
+      "buyer": {
+        "identifier": {
+          "scheme": "GACM",
+          "id": null,
+          "legalName": "Grupo Aeroportuario de la Ciudad de México",
+          "uri": "http://www.aeropuerto.gob.mx/gacm/index.php"
+        },
+        "name": "Grupo Aeroportuario de la Ciudad de México",
+        "address": {
+          "locality": "Ciudad de México",
+          "region": "Ciudad de México",
+          "countryName": "México"
+        },
+        "contactPoint": {
+          "name": null
+        }
+      },
+      "budget": [
+        {
+          "budgetSource": "Presupuesto de Egresos de la Fedración 2015 y 2016",
+          "budgetId": "1409JZL0005",
+          "budgetDescription": "Transferencias a fideicomisos públicos.",
+          "value": {
+            "amount": "TOTAL: $150,000,000.00 2015: $100,000,000.00 2016: $50,000,000.00",
+            "currency": "MNX"
+          },
+          "budgetProject": {
+            "id": "No aplica",
+            "name": "Nuevo Aeropuerto Internacional de la Ciudad de México",
+            "uri": "http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_pief.pdf http://www.diputados.gob.mx/PEF2015/docs/09/r09_kdh_piefe.pdf http://www.apartados.hacienda.gob.mx/presupuesto/temas/pef/2015/docs/09/r09_kdh_pie.pdf"
+          },
+          "Documents": [
+            {
+              "needsAssessment": {
+                "needsAssessment": "Términos de referencia para los servicios del proyecto ejecutivo construcción, equipamiento, mobiliario e instalaciones complementarias para el campamento del Grupo Aeroportuario de la Ciudad de México (GACM) en el sitio del Nuevo Aeropuerto Internacional de la Ciudad de México publicados en CompraNet el 23 de junio de 2015.",
+                "uri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Términos_de_referencia.pdf"
+              },
+              "plans": {
+                "projectPlans": "No aplica (es parte de los trabajos a realizar)",
+                "procurementPlan": "Programa anual de obras públicas y servicios relacionados con las mismas de GACM correspondiente al ejercicio fiscal 2015"
+              },
+              "feasibilityStudy": {
+                "feasibilityStudy": "Factibilidad técnica, legal y ambiental del proyecto de desarrollo del Nuevo Aeropuerto Internacional de la Ciudad de México",
+                "uri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Factibilidades.pdf"
+              },
+              "marketStudy": {
+                "marketStudy": "Investigación de mercado para la contratación relativa al Desarrollo del Proyecto Ejecutivo, construcción, equipamiento de mobiliario en instalaciones complementarias para el campamento del Grupo Aeroportuario de la Ciudad de México en l sitio del Nuevo Aeropuerto Internacional de la Ciudad de México, emitida por la subdirección de Proyectos de la Dirección Corporativa de Infraestructura.",
+                "uri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_2015_Investigacion_de_mercado.pdf"
+              }
+            }
+          ]
+        }
+      ],
+      "rationale": "Los servicios, se contemplan dentro la línea de acción 1.4.1 , correspondiente a la estrategia 1.4 que deriva del objetivo 1 del Programa Sectorial de Comunicaciones y Transportes, que a su vez se enmarca dentro de las líneas de acción del Plan Nacional de Desarrollo en Materia de Aeropuertos, debido a que tales servicios se encuentran implícitos en la estrategia general de modernizar los aeropuertos regionales y ampliar la capacidad de aquellos saturados o  logísticamente prioritarios y en la acción especí",
+      "tender": {
+        "id": "830658 ",
+        "title": "Desarrollo del proyecto ejecutivo, construcción, equipamiento de mobiliario en   instalaciones complementarias para el campamento del Grupo Aeroportuario   de la Ciudad de México en el sitio del Nuevo Aeropuerto Internacional de la   Ciudad de México.",
+        "description": "Desarrollo del Proyecto Ejecutivo, construcción, equipamiento de mobiliario en instalaciones complementarias para el campamento del Grupo Aeroportuario de la Ciudad de México en el sitio del Nuevo Aeropuerto Internacional de la Ciudad de México.",
+        "status": "Adjudicado ",
+        "value": {
+          "minAmount": "No aplica",
+          "amount": "TOTAL: $150,000,000.00 2015: $100,000,000.00 2016: $50,000,000.00",
+          "currency": "MNX"
+        },
+        "procurement": {
+          "method": "Licitación Pública",
+          "caracter": "Nacional ",
+          "process": "Presencial",
+          "procurementMethodRationale": "Artículo 27, segundo párrafo de la Ley de Obras Públicas y Servicios Relaciondos con las Mismas"
+        },
+        "criteria": {
+          "awardCriteria": "Ponderación de puntos (Puntos y porcentajes)",
+          "details": "Capítulo VII de la Convocatoria (ver anexo) "
+        },
+        "submission": {
+          "submissionMethod": "Presencial",
+          "details": "El acto de presentación y apertura de proposiciones se llevó a cabo a las 11:00 horas del 27 de julio de 2015, en la sala de juntas ubicada en Av. Insurgentes Sur 2453, piso 2, Torre Murano, Colonia Tizapán San Angel, Delegación Álvaro Obregón, México, D.F., C.P. 01090. El acto fue presidido por el Subdirector de Contrataciones de GACM.  Los documentos técnicos T.3, así como la documentación económica E-4, E-5, E-6, E-7, E-8, E-9, E-10, E-11, E-12, E-13, E-14 y E-15, correspondiente a las 17 proposiciones presentadas."
+        },
+        "tenderPeriod": {
+          "startDate": "07/27/2015",
+          "endDate": null
+        },
+        "enquiryPeriod": {
+          "hasEnquiries": "343",
+          "startDate": "07/02/2015",
+          "endDate": "07/10/2015"
+        },
+        "socialWitness": {
+          "hasSocialWitness": "1",
+          "id": "AASO390420G79",
+          "name": "Óscar Álvarez de la Cuadra Sánchez "
+        },
+        "elgibilityCriteria": "Capítulo VI de la Convocatoria (ver anexo)",
+        "tenderers": {
+          "numberOfTenderers": "17",
+          "numberOfInhabilitatedTenderers": "0"
+        },
+        "notices": {
+          "notices": "Proyecto de Convocatoria a la Licitación Pública Nacional Presencial para realizar el desarrollo del proyecto ejecutivo, construcción, equipamiento de, mobiliario e instalaciones complementarias para el campamento del Grupo Aeroportuario De La Ciudad De México (GACM) en el sitio del Nuevo Aeropuerto Internacional de la Ciudad de México (NAICM) publicado en CompraNet el 11 de mayo de 2015",
+          "hearingNotice": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015"
+        },
+        "biddingDocuments": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
+        "eligibilityCriteria": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
+        "technicalSpecifications": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
+        "evaluationCriteria": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
+        "clarifications": "Actas de las juntas de aclaraciones realizadas el 02, 06 y 10 de julio de 2015",
+        "shortlistedFirms": "No aplica para procedimientos realizados bajo la Ley de Obras Públicas y Servicios Relacionados con las Mismas",
+        "conflictOfInterest": "Formato de declaración de no conflicto de interés debidamente requisitado y firmado por cada uno de los servidores públicos que participan en el procedimiento de contratación",
+        "debartments": "Directorio de proveedores y contratistas sancionados de la SFP"
+      },
+      "awards": [
+        {
+          "id": "LO-009KDH999- N47-2015",
+          "title": "Acta de emisión de fallo ",
+          "description": "Con fundamento en lo dispuesto en el artículo 39, fracción III de la LOPSRM, se adjudica el contrato al consorcio integrado por Acciones Grupo Oro, S.A. de C.V. y Constructora Grupo de Oro, S.A. de C.V. , por un importe de $112,046,320.57, monto sin considerar el IVA, por resultar se la propuesta que al ser evaluada técnica y ecómicamente, obtuvo el puntaje más alto acorde al mecanismo de evaluación previsto en la convocatoria. ",
+          "status": "Adjudicado ",
+          "date": "2015-08-28T00:00:00Z",
+          "value": {
+            "amount": 112046320.57,
+            "currency": "MNX"
+          },
+          "suppliers": [
+            {
+              "identifier": {
+                "scheme": null,
+                "id": "1. Acciones Grupo Oro, S.A. de C.V.  AGO090512QT4 2.Constructora Grupo de Oro, S.A. de C.V. CGO060731P72",
+                "legalName": "1. Acciones Grupo Oro, S.A. de C.V.  2.Constructora Grupo de Oro, S.A. de C.V.",
+                "uri": "http://www.grupodeoro.com.mx/consulta_empresa.php?empresas=12"
+              },
+              "additionalIdentifiers": [
+                {
+                  "scheme": null,
+                  "id": null
+                }
+              ],
+              "name": "1. Acciones Grupo Oro, S.A. de C.V.  2.Constructora Grupo de Oro, S.A. de C.V.",
+              "address": {
+                "streetAddress": "Prolongación 18 de marzo 300",
+                "locality": "Morelia",
+                "region": "Michoacán",
+                "postalCode": "58080",
+                "countryName": "México"
+              },
+              "contactPoint": {
+                "name": "Ricardo Ramos Acosta",
+                "email": null,
+                "telephone": null,
+                "faxNumber": null
+              }
+            }
+          ],
+          "items": [
+            {
+              "id": "62501001",
+              "description": "Construcción aeropista",
+              "classification": {
+                "scheme": null,
+                "id": null,
+                "description": "Obra pública",
+                "uri": null
+              },
+              "additionalClassifications": [
+                {
+                  "scheme": null,
+                  "id": null,
+                  "description": null,
+                  "uri": null
+                }
+              ],
+              "quantity": 1,
+              "unit": {
+                "name": "Obra",
+                "value": {
+                  "amount": null,
+                  "currency": "MXN"
+                }
+              }
+            }
+          ],
+          "contractPeriod": {
+            "startDate": "2015-09-10T00:00:00Z",
+            "endDate": "2016-06-04T00:00:00Z"
+          },
+          "documents": [
+            {
+              "id": "LO-009KDH999- N47-2015",
+              "documentType": null,
+              "title": "Acta de emisión de fallo ",
+              "description": "Con fundamento en lo dispuesto en el artículo 39, fracción III de la LOPSRM, se adjudica el contrato al consorcio integrado por Acciones Grupo Oro, S.A. de C.V. y Constructora Grupo de Oro, S.A. de C.V. , por un importe de $112,046,320.57, monto sin considerar el IVA, por resultar se la propuesta que al ser evaluada técnica y ecómicamente, obtuvo el puntaje más alto acorde al mecanismo de evaluación previsto en la convocatoria. ",
+              "url": null,
+              "datePublished": null,
+              "format": null,
+              "language": "es"
+            }
+          ]
+        }
+      ],
+      "contracts": [
+        {
+          "id": "LPN-OP-DCAGI-SC-066/15",
+          "awardID": "LO-009KDH999- N47-2015",
+          "title": "Desarrollo del Proyecto Ejecutivo, construcción, equipamiento de mobiliario en instalaciones complementarias para el campamento del Grupo Aeroportuario de la Ciudad de México en el sitio del Nuevo Aeropuerto Internacional de la Ciudad de México.",
+          "description": null,
+          "status": "Activo",
+          "period": {
+            "startDate": "2015-09-10T00:00:00Z",
+            "endDate": "2016-04-06T00:00:00Z"
+          },
+          "value": {
+            "amount": 112046320.57,
+            "currency": "MXN"
+          },
+          "items": [
+            {
+              "id": "null",
+              "description": null,
+              "classification": {
+                "scheme": null,
+                "id": null,
+                "description": null,
+                "uri": null
+              }
+            }
+          ],
+          "additionalClassifications": [
+            {
+              "scheme": null,
+              "id": null,
+              "description": null,
+              "uri": null
+            }
+          ],
+          "quantity": null,
+          "unit": {
+            "name": "Obra",
+            "value": {
+              "amount": null,
+              "currency": "MXN"
+            }
+          },
+          "dateSigned": "2015-09-10T00:00:00Z",
+          "documents": [
+            {
+              "id": "1188539",
+              "documentType": "contractSigned",
+              "title": "Contrato plurianual de obra pública a precio alzado  número LPN-OP-DCAGI-SC-066/15",
+              "description": null,
+              "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Contrato.pdf",
+              "datePublished": null,
+              "format": null,
+              "language": "es"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
