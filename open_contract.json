@@ -1,0 +1,594 @@
+{
+  "uri": "http://busca.datos.gob.mx/#!/instituciones/gacm/",
+  "publishedDate": "2015-06-23T00:00:00Z",
+  "publisher": {
+    "scheme": "GACM",
+    "uid": null,
+    "name": "Grupo Aeroportuario de la Ciudad de México, S.A. de C.V.",
+    "uri": "http://www.aeropuerto.gob.mx/gacm/index.php"
+  },
+  "license": "link_to_license",
+  "publicationPolicy": "link_to_pub_policy",
+  "releases": [
+    {
+      "id": "id",
+      "ocid": "1409JZL0005",
+      "date": "2015-06-23T00:00:00Z",
+      "tag": [
+        "tender"
+      ],
+      "initiationType": "tender",
+      "planning": {
+        "budget": {
+          "source": "Presupuesto de Egresos de la Fedración 2015 y 2016",
+          "id": "1409JZL0005",
+          "description": "Transferencias a fideicomisos públicos.",
+          "amount": {
+            "amount": 150000000,
+            "currency": "MNX"
+          },
+          "project": "Nuevo Aeropuerto Internacional de la Ciudad de México",
+          "projectID": "No aplica",
+          "uri": "budget_url"
+        },
+        "rationale": "Los servicios, se contemplan dentro la línea de acción 1.4.1 , correspondiente a la estrategia 1.4 que deriva del objetivo 1 del Programa Sectorial de Comunicaciones y Transportes, que a su vez se enmarca dentro de las líneas de acción del Plan Nacional de Desarrollo en Materia de Aeropuertos, debido a que tales servicios se encuentran implícitos en la estrategia general de modernizar los aeropuertos regionales y ampliar la capacidad de aquellos saturados o  logísticamente prioritarios y en la acción especí",
+        "documents": [
+          {
+            "id": "needsAssessment",
+            "documentType": "needsAssessment",
+            "title": "Evaluación de necesidades",
+            "description": "Términos de referencia para los servicios del proyecto ejecutivo construcción, equipamiento, mobiliario e instalaciones complementarias para el campamento del Grupo Aeroportuario de la Ciudad de México (GACM) en el sitio del Nuevo Aeropuerto Internacional de la Ciudad de México publicados en CompraNet el 23 de junio de 2015.",
+            "url": "url_needs",
+            "datePublished": null,
+            "dateModified": null,
+            "format": "Plain text",
+            "language": "es"
+          },
+          {
+            "id": "projectPlan",
+            "documentType": "projectPlan",
+            "title": "Plan proyecto",
+            "description": "No aplica (es parte de los trabajos a realizar)",
+            "url": "url_plan_proy",
+            "datePublished": null,
+            "dateModified": null,
+            "format": "Plain text",
+            "language": "es"
+          },
+          {
+            "id": "contractAnnexe",
+            "documentType": "contractAnnexe",
+            "title": "Plan de contratación",
+            "description": "Programa anual de obras públicas y servicios relacionados con las mismas de GACM correspondiente al ejercicio fiscal 2015",
+            "url": "url_plan_contract",
+            "datePublished": null,
+            "dateModified": null,
+            "format": "Plain text",
+            "language": "es"
+          },
+          {
+            "id": "feasibilityStudy",
+            "documentType": "feasibilityStudy",
+            "title": "Estudio factibilidad",
+            "description": "Factibilidad técnica, legal y ambiental del proyecto de desarrollo del Nuevo Aeropuerto Internacional de la Ciudad de México",
+            "url": "url_fact",
+            "datePublished": null,
+            "dateModified": null,
+            "format": "Plain text",
+            "language": "es"
+          },
+          {
+            "id": "marketStudies",
+            "documentType": "marketStudies",
+            "title": "Estudio de mercado",
+            "description": "Investigación de mercado para la contratación relativa al Desarrollo del Proyecto Ejecutivo, construcción, equipamiento de mobiliario en instalaciones complementarias para el campamento del Grupo Aeroportuario de la Ciudad de México en l sitio del Nuevo Aeropuerto Internacional de la Ciudad de México, emitida por la subdirección de Proyectos de la Dirección Corporativa de Infraestructura.",
+            "url": "url_market",
+            "datePublished": null,
+            "dateModified": null,
+            "format": "Plain text",
+            "language": "es"
+          }
+        ]
+      },
+      "tender": {
+        "id": "830658 ",
+        "title": "Desarrollo del proyecto ejecutivo, construcción, equipamiento de mobiliario en   instalaciones complementarias para el campamento del Grupo Aeroportuario   de la Ciudad de México en el sitio del Nuevo Aeropuerto Internacional de la   Ciudad de México.",
+        "description": "Desarrollo del Proyecto Ejecutivo, construcción, equipamiento de mobiliario en instalaciones complementarias para el campamento del Grupo Aeroportuario de la Ciudad de México en el sitio del Nuevo Aeropuerto Internacional de la Ciudad de México.",
+        "status": "active",
+        "items": [
+          {
+            "id": "62501001",
+            "description": "Construcción aeropista",
+            "classification": {
+              "scheme": null,
+              "id": null,
+              "description": "Obra pública",
+              "uri": null
+            },
+            "additionalClassification": {
+              "scheme": null,
+              "id": null,
+              "description": null,
+              "uri": null
+            },
+            "quantity": 1,
+            "unit": {
+              "name": "Obra",
+              "value": {
+                "amount": null,
+                "currency": "MNX"
+              }
+            }
+          }
+        ],
+        "minValue": {
+          "amount": null,
+          "currency": "MNX"
+        },
+        "value": {
+          "amount": 150000000,
+          "currency": "MNX"
+        },
+        "procurementMethod": "open",
+        "procurementMethodRationale": "Artículo 27, segundo párrafo de la Ley de Obras Públicas y Servicios Relaciondos con las Mismas",
+        "awardCriteria": "bestProposal",
+        "awardCriteriaDetails": "Capítulo VII de la Convocatoria (ver anexo) ",
+        "submissionMethod": [
+          "inPerson"
+        ],
+        "submissionMethodDetails": "El acto de presentación y apertura de proposiciones se llevó a cabo a las 11:00 horas del 27 de julio de 2015, en la sala de juntas ubicada en Av. Insurgentes Sur 2453, piso 2, Torre Murano, Colonia Tizapán San Angel, Delegación Álvaro Obregón, México, D.F., C.P. 01090. El acto fue presidido por el Subdirector de Contrataciones de GACM.  Los documentos técnicos T.3, así como la documentación económica E-4, E-5, E-6, E-7, E-8, E-9, E-10, E-11, E-12, E-13, E-14 y E-15, correspondiente a las 17 proposiciones presentadas.",
+        "tenderPeriod": {
+          "startDate": "2015-07-27T00:00:00Z",
+          "endDate": null
+        },
+        "enquiryPeriod": {
+          "startDate": "2015-07-27T00:00:00Z",
+          "endDate": "2015-07-10T00:00:00Z"
+        },
+        "hasEnquiries": true,
+        "eligibilityCriteria": "Capítulo VI de la Convocatoria (ver anexo)",
+        "awardPeriod": {
+          "startDate": null,
+          "endDate": null
+        },
+        "numberOfTenderers": 17,
+        "tenderers": [
+          {
+            "id": "1. Acciones Grupo Oro, S.A. de C.V.  AGO090512QT4 2.Constructora Grupo de Oro, S.A. de C.V. CGO060731P72",
+            "additionalIdentifiers": [
+              {}
+            ],
+            "name": "1. Acciones Grupo Oro, S.A. de C.V.  2.Constructora Grupo de Oro, S.A. de C.V.",
+            "address": {
+              "streetAddress": "Prolongación 18 de marzo 300",
+              "locality": "Morelia",
+              "region": "Michoacán",
+              "postalCode": "58080",
+              "countryName": "México"
+            },
+            "contactPoint": {
+              "name": "Ricardo Ramos Acosta",
+              "email": "email",
+              "telephone": "telephone",
+              "faxNumber": "faxNumber",
+              "url": "url"
+            }
+          }
+        ],
+        "procuringEntity": {},
+        "documents": [
+          {
+            "id": "id_tender_notice",
+            "documentType": "tenderNotice",
+            "title": "Aviso licitación",
+            "description": "Proyecto de Convocatoria a la Licitación Pública Nacional Presencial para realizar el desarrollo del proyecto ejecutivo, construcción, equipamiento de, mobiliario e instalaciones complementarias para el campamento del Grupo Aeroportuario De La Ciudad De México (GACM) en el sitio del Nuevo Aeropuerto Internacional de la Ciudad de México (NAICM) publicado en CompraNet el 11 de mayo de 2015",
+            "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Proyecto_convocatoria.pdf",
+            "datePublished": "2015-05-11T00:00:00Z",
+            "dateModified": null,
+            "format": "Plain text",
+            "language": "es"
+          },
+          {
+            "id": "id_tender_audience",
+            "documentType": "tenderNotice",
+            "title": "Aviso audiencia pública",
+            "description": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
+            "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Convocatoria.pdf",
+            "datePublished": "2015-06-23T00:00:00Z",
+            "dateModified": null,
+            "format": "Plain text",
+            "language": "es"
+          },
+          {
+            "id": "id_tender_eligibility",
+            "documentType": "elegibilityCriteria",
+            "title": "Criterios elegibilidad publicado",
+            "description": null,
+            "url": null,
+            "datePublished": "2015-06-23T00:00:00Z",
+            "dateModified": null,
+            "format": "Plain text",
+            "language": "es"
+          },
+          {
+            "id": "id_tender_tecnical",
+            "documentType": "technicalSpecifications",
+            "title": "Especificaciones técnicas",
+            "description": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
+            "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Términos_referencia.pdf",
+            "datePublished": "2015-06-23T00:00:00Z",
+            "dateModified": null,
+            "format": "Plain text",
+            "language": "es"
+          },
+          {
+            "id": "id_tender_criteria",
+            "documentType": "evaluationCriteria",
+            "title": "Criterios evaluación",
+            "description": "Convocatoria a la Licitación Pública Nacional Presencial LO-009KDH999-N50-2015 para los trabajos relativos a la construcción del drenaje pluvial temporal del Nuevo Aeropuerto Internacional de la Ciudad de México publicada en CompraNet el 23 de junio de 2015",
+            "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Criterios_evaluación.pdf",
+            "datePublished": "2015-06-23T00:00:00Z",
+            "dateModified": null,
+            "format": "Plain text",
+            "language": "es"
+          },
+          {
+            "id": "id_tender_clarifications",
+            "documentType": "clarifications",
+            "title": "Aclaraciones",
+            "description": "Actas de las juntas de aclaraciones realizadas el 02, 06 y 10 de julio de 2015",
+            "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Junta_aclaraciones.pdf",
+            "datePublished": "2015-07-02T00:00:00Z",
+            "dateModified": "2015-07-06T00:00:00Z",
+            "format": "Plain text",
+            "language": "es"
+          },
+          {
+            "id": "id_tender_bidders",
+            "documentType": "bidders",
+            "title": "Participantes",
+            "description": "Se solicita en la convocatoria el formato para acreditar la presonalidad de los participantes. ",
+            "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Criterios_Drenaje.pdf",
+            "datePublished": null,
+            "dateModified": null,
+            "format": "Plain text",
+            "language": "es"
+          },
+          {
+            "id": "id_tender_interests",
+            "documentType": "conflictOfInterest",
+            "title": "Declaración intereses",
+            "description": "Formato de declaración de no conflicto de interés debidamente requisitado y firmado por cada uno de los servidores públicos que participan en el procedimiento de contratación",
+            "url": null,
+            "datePublished": null,
+            "dateModified": null,
+            "format": "Plain text",
+            "language": "es"
+          },
+          {
+            "id": "id_tender_debarments",
+            "documentType": "debarments",
+            "title": "Inhabilitaciones",
+            "description": "Directorio de proveedores y contratistas sancionados de la SFP",
+            "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_proveedores_sancionados.pdf",
+            "datePublished": null,
+            "dateModified": null,
+            "format": "Plain text",
+            "language": "es"
+          }
+        ],
+        "milestones": [
+          {
+            "id": "No se han recibido estimaciones por parte del contratista",
+            "title": "No se han recibido estimaciones por parte del contratista",
+            "description": "No se han recibido estimaciones por parte del contratista",
+            "dueDate": null,
+            "dateModified": "2015-06-29T00:00:00Z",
+            "status": "notMet",
+            "documents": [
+              {
+                "id": "id_milestone_support",
+                "documentType": "contractAnnexe",
+                "title": "Documentos soporte",
+                "description": "Acta de visita al sitio de realización de los trabajos publicada en CompraNet el 29 de junio de 2015",
+                "url": null,
+                "datePublished": "2015-06-29T00:00:00Z",
+                "dateModified": null,
+                "format": "Plain text",
+                "language": "es"
+              }
+            ]
+          }
+        ],
+        "amendment": {
+          "date": null,
+          "changes": [
+            {
+              "property": "No hubo modificaciones"
+            }
+          ],
+          "rationale": "No hubo modificaciones"
+        }
+      },
+      "awards": [
+        {
+          "id": "LO-009KDH999- N47-2015",
+          "title": "Acta de emisión de fallo ",
+          "description": "Con fundamento en lo dispuesto en el artículo 39, fracción III de la LOPSRM, se adjudica el contrato al consorcio integrado por Acciones Grupo Oro, S.A. de C.V. y Constructora Grupo de Oro, S.A. de C.V. , por un importe de $112,046,320.57, monto sin considerar el IVA, por resultar se la propuesta que al ser evaluada técnica y ecómicamente, obtuvo el puntaje más alto acorde al mecanismo de evaluación previsto en la convocatoria. ",
+          "status": "active",
+          "date": "2015-08-28T00:00:00Z",
+          "value": {
+            "amount": 112046320.57,
+            "currency": null
+          },
+          "suppliers": [
+            {
+              "id": "1. Acciones Grupo Oro, S.A. de C.V.  AGO090512QT4 2.Constructora Grupo de Oro, S.A. de C.V. CGO060731P72",
+              "additionalIdentifiers": [
+                {}
+              ],
+              "name": "1. Acciones Grupo Oro, S.A. de C.V.  2.Constructora Grupo de Oro, S.A. de C.V.",
+              "address": {
+                "streetAddress": "Prolongación 18 de marzo 300",
+                "locality": "Morelia",
+                "region": "Michoacán",
+                "postalCode": "58080",
+                "countryName": "México"
+              },
+              "contactPoint": {
+                "name": null,
+                "email": "email",
+                "telephone": "telephone",
+                "faxNumber": "faxNumber",
+                "url": "url"
+              }
+            }
+          ],
+          "items": [
+            {
+              "id": "62501001",
+              "description": "Construcción aeropista",
+              "classification": {
+                "scheme": null,
+                "id": null,
+                "description": "Obra pública",
+                "uri": null
+              },
+              "additionalClassification": {
+                "scheme": null,
+                "id": null,
+                "description": null,
+                "uri": null
+              },
+              "quantity": 1,
+              "unit": {
+                "name": "Obra",
+                "value": {
+                  "amount": null,
+                  "currency": "MNX"
+                }
+              }
+            }
+          ],
+          "contractPeriod": {
+            "startDate": "2015-09-10T00:00:00Z",
+            "endDate": "2016-06-04T00:00:00Z"
+          },
+          "documents": [
+            {
+              "id": "id_evaluation",
+              "documentType": "evaluationReports",
+              "title": "Reportes evaluación",
+              "description": "Acta de emisión de fallo ",
+              "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Fallo.pdf",
+              "datePublished": null,
+              "dateModified": null,
+              "format": "Plain text",
+              "language": "es"
+            },
+            {
+              "id": "id_winning_bid",
+              "documentType": "winningBid",
+              "title": "Propuesta ganadora",
+              "description": "Propuesta técnica y económica del consorcio integrado por Acciones Grupo Oro, S.A. de C.V. y Constructora Grupo de Oro, S.A. de C.V.",
+              "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Propuesta.pdf",
+              "datePublished": null,
+              "dateModified": null,
+              "format": "Plain text",
+              "language": "es"
+            }
+          ],
+          "amendment": {
+            "date": null,
+            "changes": [
+              {
+                "property": "No se ha celebrado ningún convenio modificatorio "
+              }
+            ],
+            "rationale": "No se ha celebrado ningún convenio modificatorio "
+          }
+        }
+      ],
+      "contracts": [
+        {
+          "id": "LPN-OP-DCAGI-SC-066/15",
+          "awardID": "LO-009KDH999- N47-2015",
+          "title": "Desarrollo del Proyecto Ejecutivo, construcción, equipamiento de mobiliario en instalaciones complementarias para el campamento del Grupo Aeroportuario de la Ciudad de México en el sitio del Nuevo Aeropuerto Internacional de la Ciudad de México.",
+          "description": null,
+          "status": "active",
+          "period": {
+            "startDate": "2015-09-10T00:00:00Z",
+            "endDate": "2016-04-06T00:00:00Z"
+          },
+          "value": {
+            "amount": 112046320.57,
+            "currency": "MNX"
+          },
+          "items": [
+            {
+              "id": "id_items_contract"
+            }
+          ],
+          "dateSigned": "2015-09-10T00:00:00Z",
+          "documents": [
+            {
+              "id": "id_signedContract",
+              "documentType": "contractSigned",
+              "title": "Contrato firmado",
+              "description": "Contrato plurianual de obra pública a precio alzado  número LPN-OP-DCAGI-SC-066/15",
+              "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Contrato.pdf",
+              "datePublished": null,
+              "dateModified": null,
+              "format": "Plain text",
+              "language": "es"
+            },
+            {
+              "id": "id_arrengments",
+              "documentType": "contractArrengments",
+              "title": "Clausulas",
+              "description": "Cláusula Décimo Cuarta del Contrato.- Entrega, Verificación y Finiquito de \"La Obra\"",
+              "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Contrato_clausula14.pdf",
+              "datePublished": null,
+              "dateModified": null,
+              "format": "Plain text",
+              "language": "es"
+            },
+            {
+              "id": "id_contract_schedule",
+              "documentType": "contractSchedule",
+              "title": "Cronograma contrato",
+              "description": "No aplica",
+              "url": null,
+              "datePublished": null,
+              "dateModified": null,
+              "format": "Plain text",
+              "language": "es"
+            },
+            {
+              "id": "id_annexe",
+              "documentType": "contractAnnexe",
+              "title": "Anexos contrato",
+              "description": "\"Anexo 1: Suficiencia presupuestaria   Anexo 2: Escrituras públicas de Acciones Grupo de Oro, S.A. de C.V.   Anexo 3: Poder del representante legal de Acciones Grupo de Oro, S.A. de C.V.   Anexo 4: Cédula de Registro Federal de Contribuyentes de  Acciones Grupo de Oro, S.A. de C.V.   Anexo 5: Comprobante de  domicilio de  Acciones Grupo de Oro, S.A. de C.V.    Anexo 6: Opinión del cumplimiento de obligaciones fiscales de Acciones Grupo de Oro, S.A. de C.V.   Anexo 7: Declaración de no encontrarse en los supuestos de los artículos 51 y 78 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas de Acciones Grupo de Oro, S.A. de C.V.   Anexo 8: Manifestación de estratificación de MIPYMES de Acciones Grupo de Oro, S.A. de C.V.    Anexo 9: Constancia de no adeudo al IMSS de Acciones Grupo de Oro, S.A. de C.V.   Anexo 10: Escrituras públicas de Constructora Grupo de Oro, S.A. de C.V.   Anexo 11: Poder del representante legal de Constructora Grupo de Oro, S.A. de C.V.   Anexo 12: Cédula del registro federal de contribuyentes de  Constructora Grupo de Oro, S.A. de C.V.   Anexo 13:  Comprobante de domicilio de  Constructora Grupo de Oro, S.A. de C.V.   Anexo 14: Opinión del cumplimiento de obligaciones fiscales de Constructora Grupo de Oro, S.A. de C.V.   Anexo 15: Declaración de Constructora Grupo de Oro, S.A. de C.V. de no encontrarse en los supuestos de los artículos 51 y 78 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas   Anexo 16: Manifestación de estratificación de MIPYMES de Constructora Grupo de Oro, S.A. de C.V.   Anexo 17: Constancia de no adeudo al IMSS de Constructora Grupo de Oro, S.A. de C.V.   Anexo 18: Convenio de Participación Conjunta entre Constructora Grupo de Oro, S.A. de C.V. y Acciones Grupo de Oro, S.A. de C.V.   Anexo 19: Designación de representante común.    Anexo 20: Términos de Referencia   Anexo 21: Propuesta técnica integral   Anexo 22: Acta de fallo   Anexo 23: Propuesta económica integral   Anexo 24: Programa de amortización del ant",
+              "url": null,
+              "datePublished": null,
+              "dateModified": null,
+              "format": "Plain text",
+              "language": "es"
+            },
+            {
+              "id": "id_contract_guarantees",
+              "documentType": "contractGuarantees",
+              "title": "Garantías anticipo",
+              "description": "Fianza número 88263546 emitida el 2015-10-09 por CHUBB de México Compañía Afianzadora , S.A. de C.V.",
+              "url": "   ",
+              "datePublished": null,
+              "dateModified": null,
+              "format": "Plain text",
+              "language": "es"
+            },
+            {
+              "id": "id_contract_guarantees_accomplishment",
+              "documentType": "contractGuarantees",
+              "title": "Garantías cumplimiento",
+              "description": "Fianza número 88263545 emitida el 2015-10-09 por CHUBB de México Compañía Afianzadora , S.A. de C.V",
+              "url": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Garantia_cumplimiento.pdf",
+              "datePublished": null,
+              "dateModified": null,
+              "format": "Plain text",
+              "language": "es"
+            },
+            {
+              "id": "id_subcontract",
+              "documentType": "subContract",
+              "title": "Subcontratos",
+              "description": "GACM no ha sido notificado sobre ninguna contratación",
+              "url": null,
+              "datePublished": null,
+              "dateModified": null,
+              "format": "Plain text",
+              "language": "es"
+            }
+          ],
+          "amendment": {},
+          "implementation": {
+            "transactions": [
+              {
+                "id": "1188539",
+                "source": "Fideicomiso para el desarrollo del Nuevo Aeropuerto Internacional de la Ciudad de México",
+                "date": "2015-10-22T00:00:00Z",
+                "amount": {
+                  "amount": 10000000.01,
+                  "currency": "MNX"
+                },
+                "providerOrganization": {
+                  "id": "id_organizacion_emite",
+                  "additionalIdentifiers": [
+                    {}
+                  ],
+                  "name": "Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, como fiduciaria del Fideicomiso para el desarrollo del NAICM",
+                  "address": {
+                    "streetAddress": null,
+                    "locality": null,
+                    "region": null,
+                    "postalCode": null,
+                    "countryName": null
+                  },
+                  "contactPoint": {
+                    "name": null,
+                    "email": null,
+                    "telephone": null,
+                    "faxNumber": null,
+                    "url": null
+                  }
+                },
+                "receiverOrganization": {
+                  "id": "1. Acciones Grupo Oro, S.A. de C.V.  AGO090512QT4 2.Constructora Grupo de Oro, S.A. de C.V. CGO060731P72",
+                  "additionalIdentifiers": [
+                    {}
+                  ],
+                  "name": "1. Acciones Grupo Oro, S.A. de C.V.  2.Constructora Grupo de Oro, S.A. de C.V.",
+                  "address": {
+                    "streetAddress": "Prolongación 18 de marzo 300",
+                    "locality": "Morelia",
+                    "region": "Michoacán",
+                    "postalCode": "58080",
+                    "countryName": "México"
+                  },
+                  "contactPoint": {
+                    "name": null,
+                    "email": "email",
+                    "telephone": "telephone",
+                    "faxNumber": "faxNumber",
+                    "url": "url"
+                  }
+                },
+                "uri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Comprobante_pago_campamento.pdf"
+              }
+            ],
+            "milestones": [
+              {
+                "id": "id_hito_imp",
+                "title": null,
+                "description": null,
+                "dueDate": null,
+                "dateModified": null,
+                "status": null,
+                "documents": [
+                  {
+                    "id": "id_doc_mil_contract"
+                  }
+                ]
+              }
+            ],
+            "documents": [
+              {
+                "id": "id_doc_imp_contract"
+              }
+            ]
+          }
+        }
+      ],
+      "language": "es"
+    }
+  ]
+}
