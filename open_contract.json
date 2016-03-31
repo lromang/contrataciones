@@ -105,12 +105,6 @@
               "description": "Obra pública",
               "uri": null
             },
-            "additionalClassification": {
-              "scheme": null,
-              "id": null,
-              "description": null,
-              "uri": null
-            },
             "quantity": 1,
             "unit": {
               "name": "Obra",
@@ -154,7 +148,6 @@
         "numberOfTenderers": 17,
         "tenderers": [
           {
-            "id": "1. Acciones Grupo Oro, S.A. de C.V.  AGO090512QT4 2.Constructora Grupo de Oro, S.A. de C.V. CGO060731P72",
             "additionalIdentifiers": [
               {}
             ],
@@ -323,7 +316,6 @@
           },
           "suppliers": [
             {
-              "id": "1. Acciones Grupo Oro, S.A. de C.V.  AGO090512QT4 2.Constructora Grupo de Oro, S.A. de C.V. CGO060731P72",
               "additionalIdentifiers": [
                 {}
               ],
@@ -352,12 +344,6 @@
                 "scheme": null,
                 "id": null,
                 "description": "Obra pública",
-                "uri": null
-              },
-              "additionalClassification": {
-                "scheme": null,
-                "id": null,
-                "description": null,
                 "uri": null
               },
               "quantity": 1,
@@ -521,46 +507,10 @@
                   "currency": "MNX"
                 },
                 "providerOrganization": {
-                  "id": "id_organizacion_emite",
-                  "additionalIdentifiers": [
-                    {}
-                  ],
-                  "name": "Nacional Financiera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, como fiduciaria del Fideicomiso para el desarrollo del NAICM",
-                  "address": {
-                    "streetAddress": null,
-                    "locality": null,
-                    "region": null,
-                    "postalCode": null,
-                    "countryName": null
-                  },
-                  "contactPoint": {
-                    "name": null,
-                    "email": null,
-                    "telephone": null,
-                    "faxNumber": null,
-                    "url": null
-                  }
+                  "id": "id_organizacion_emite"
                 },
                 "receiverOrganization": {
-                  "id": "1. Acciones Grupo Oro, S.A. de C.V.  AGO090512QT4 2.Constructora Grupo de Oro, S.A. de C.V. CGO060731P72",
-                  "additionalIdentifiers": [
-                    {}
-                  ],
-                  "name": "1. Acciones Grupo Oro, S.A. de C.V.  2.Constructora Grupo de Oro, S.A. de C.V.",
-                  "address": {
-                    "streetAddress": "Prolongación 18 de marzo 300",
-                    "locality": "Morelia",
-                    "region": "Michoacán",
-                    "postalCode": "58080",
-                    "countryName": "México"
-                  },
-                  "contactPoint": {
-                    "name": null,
-                    "email": "email",
-                    "telephone": "telephone",
-                    "faxNumber": "faxNumber",
-                    "url": "url"
-                  }
+                  "id": "1. Acciones Grupo Oro, S.A. de C.V.  AGO090512QT4 2.Constructora Grupo de Oro, S.A. de C.V. CGO060731P72"
                 },
                 "uri": "/datos_abiertos/pdf/Campamento/LO-009KDH999-N47-2015_Comprobante_pago_campamento.pdf"
               }
